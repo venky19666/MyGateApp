@@ -1,0 +1,1 @@
+export const mobileNumRegex = /[0-9]{10,}/
